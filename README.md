@@ -3,10 +3,10 @@ Article explorer build with Angular4 and bootstrap. All article data is received
 
 ## Login with api key
 Login functionality using api key
-![alt text](https://github.com/mksolemn/article_explorer_demo-Angular4/blob/master/img/login_panding_page.png?raw=true "Explorer landing page")
+![alt text](https://github.com/mksolemn/article_explorer_demo-Angular4/blob/master/img/login_lagit addnding_page.png?raw=true "Explorer landing page")
 
 ## Article explorer main page
-![alt text](https://github.com/mksolemn/article_explorer_demo-Angular4/blob/master/img/explorer.png?raw=true "Explorer)
+![alt text](https://github.com/mksolemn/article_explorer_demo-Angular4/blob/master/img/explorer.png?raw=true "Explorer")
 
 ## Pagination
 Including REST api call example and response.
